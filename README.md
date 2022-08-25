@@ -1,5 +1,7 @@
 ## Olá, seja bem vindo ao meu GitHub!!! 🙌
 
+- 📚 Atualmente estudando Java, Spring Boot e SQL
+
 <div align="center">
 <a href="https://github.com/Higor-Emanuel-Ribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Higor-Emanuel-Ribeiro&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
