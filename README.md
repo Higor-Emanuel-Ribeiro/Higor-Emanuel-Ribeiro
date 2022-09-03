@@ -1,6 +1,6 @@
-## Olá, seja bem vindo ao meu GitHub!!! 🙌
+## Hello, welcome to my GitHub!!! 🙌
 
-- 📚 Atualmente estudando Java, Spring Boot e SQL
+- 📚 Currently studying Java, Spring Boot and SQL.
 
 <div align="center">
 <a href="https://github.com/Higor-Emanuel-Ribeiro">
