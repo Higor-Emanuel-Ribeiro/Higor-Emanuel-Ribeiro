@@ -1,6 +1,6 @@
 ## Hello, welcome to my GitHub!!! 🙌
 
-- 📚 Currently studying Java, Spring Boot and SQL.
+- 📚 Currently studying HTML5 and CSS3.
 
 <div align="center">
 <a href="https://github.com/Higor-Emanuel-Ribeiro">
